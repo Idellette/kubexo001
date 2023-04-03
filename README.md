@@ -29,4 +29,4 @@ Run the following command to ensure the server is running:
 
 http//localhost:81
 
-You can also view it in the browser now by going to localhost:80 and you should see your HTML file, as shown in file kub001.
+You can also view it in the browser now by going to localhost:80 and you should see your HTML file, as shown in file kub001.png.
